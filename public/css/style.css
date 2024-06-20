@@ -3,6 +3,8 @@
     padding: 0;
 }
 
+/* top header */
+
 .hero {
     display: flex;
     align-items: center;
@@ -16,8 +18,9 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 30px;
-    background-color: rgba(255, 255, 255, 0.5);
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgba(119, 103, 103, 0.8);
     border-radius: 10px;
     height: 100vh;
 }
@@ -39,7 +42,7 @@
 .content .text h2 {
     margin-top: 20px;
     margin-bottom: 20px;
-    color: #000000;
+    color: #ffffff;
     font-size: 60px;
     font-weight: 800;
 }
@@ -49,13 +52,7 @@
     margin-bottom: 15px;
     font-weight: 550;
     font-size: 20px;
-    color: #000000;
-}
-
-.content .text p.exp {
-    display: flex;
-    align-items: start;
-    color: #000000;
+    color: #ffffff;
 }
 
 .contact-info {
@@ -67,10 +64,47 @@
 .contact-info i {
     margin-right: 10px;
     font-size: 24px;
+    background-color: red;
+    color: white;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
 }
 
 .contact-info .phone p {
     margin: 0;
     font-size: 18px;
-    color: #333;
+    font-size: 20px;
+    color: #ffffff;
 }
+
+/* second sub */
+
+section.sub-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+section.sub-1 .text{
+    width: 70%;
+}
+
+section.sub-1 .text h1,
+section.sub-1 .text p {
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+section.sub-1 .text h1{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+

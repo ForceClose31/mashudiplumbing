@@ -32,6 +32,19 @@
             </div>
         </div>
     </section>
+    <section class="sub-1">
+        <div class="text">
+            <h1>PAKAR TUKANG PAIP (PLUMBER) KUALA LUMPUR, SELANGOR & SEREMBAN</h1>
+            <p>Kami di TUKANGPAIPPLUMBER.COM memiliki pekerja yang mempunyai kemahiran dan kepakaran dalam bidang
+                masing-masing. Kepakaran yang kami berikan kepada pelanggan termasuk elektrikal, plumber, renovation,
+                mengecat rumah, dan pelbagai lagi. Buat masa ini perkhidmatan kami meliputi kawasan Bangi, Kajang,
+                Cheras,
+                Sepang, Puchong, Seri Kembangan, Serdang, Semenyih, Mantin dan kawasan berdekatan.</p>
+            <p>TUKANGPAIPPLUMBER.COM di tubuhkan untuk membantu warga Lembah Klang yang menghadapi masalah-masalah dan
+                perlu
+                diselesaikan dengan segera.</p>
+        </div>
+    </section>
 </body>
 
 </html>
