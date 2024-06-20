@@ -35,7 +35,7 @@
     max-width: 50%;
     display: flex;
     flex-direction: column;
-    padding: 20px;
+    /* padding: 20px; */
     text-align: left;
 }
 
@@ -64,7 +64,7 @@
 .contact-info i {
     margin-right: 10px;
     font-size: 24px;
-    background-color: red;
+    background-color: #f2382c;
     color: white;
     width: 50px;
     height: 50px;
@@ -87,12 +87,13 @@ section.sub-1 {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding-top: 50px;
     align-items: center;
     height: 100vh;
     width: 100%;
 }
 
-section.sub-1 .text{
+section.sub-1 .text {
     width: 70%;
 }
 
@@ -102,9 +103,35 @@ section.sub-1 .text p {
     text-align: center;
 }
 
-section.sub-1 .text h1{
+section.sub-1 .text h1 {
     font-size: 50px;
     font-weight: 600;
 }
 
+/* section three */
+section.sub-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 200px;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+section.sub-2 .text h1 {
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+
+.card img {
+    height: 408px;
+    /* width: 450px; */
+    object-fit: cover;
+}
+
+.container{
+    margin-bottom: 50px;
+}
 
